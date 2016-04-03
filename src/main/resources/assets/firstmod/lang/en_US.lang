@@ -1,3 +1,15 @@
 item.testItem.name=Blue Glowstone Dust
 tile.blueGlowstone.name=Blue Glowstone
 tile.face.name=Numbered Block
+tile.metablock_0.name=Metablock 0 (White)
+tile.metablock_1.name=Metablock 1 (Black)
+tile.metablock_2.name=Metablock 2 (Red)
+tile.metablock_3.name=Metablock 3 (Green)
+tile.metablock_4.name=Metablock 4 (Yellow)
+tile.metablock_5.name=Metablock 5 (Blue)
+item.metaitem_0.name=Metaitem 0 (White)
+item.metaitem_1.name=Metaitem 1 (Black)
+item.metaitem_2.name=Metaitem 2 (Red)
+item.metaitem_3.name=Metaitem 3 (Green)
+item.metaitem_4.name=Metaitem 4 (Yellow)
+item.metaitem_5.name=Metaitem 5 (Blue)
